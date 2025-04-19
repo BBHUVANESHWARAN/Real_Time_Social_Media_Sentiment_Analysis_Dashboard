@@ -75,11 +75,3 @@ MONGODB_URI=[Your MongoDB connection string]```
 * Expand sentiment analysis capabilities to perform on a larger dataset and analyze across more metrics.
 * Implement more advanced NLP techniques and data visualization techniques to further the complexity of this project.
 
-**Contributors:**
-
-[Krishna S Negi]
-
-
-**License:**
-
-[MIT License]
