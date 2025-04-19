@@ -1,11 +1,10 @@
 # Real-time Social Media Trend Tracker 
 
-![dashboardLight](https://github.com/user-attachments/assets/b2972b81-201c-43e6-98f4-da5785b700fc)
+
 
 
 This project is a real-time dashboard visualizing trending topics on social media. It leverages a combination of modern technologies to analyze and present data effectively.  
 
-![dashboardSearch](https://github.com/user-attachments/assets/1f31c35d-6c65-4dad-bc37-6345e1512b9e)
 
 **Key Features:**
 
@@ -14,7 +13,6 @@ This project is a real-time dashboard visualizing trending topics on social medi
 * **Custom Sentiment Analysis:** Provides a sentiment score for keywords to assess public opinion.
 * **Engagement Metrics:** Displays average retweets and likes per keyword, showing relative engagement level for each term.
 * **Responsive Design:** The user interface adjusts well to various screen sizes.
-![graph](https://github.com/user-attachments/assets/aff266ba-6fa2-49fe-acf9-7e2014f13e00)
 
 **Technology Stack:**
 
